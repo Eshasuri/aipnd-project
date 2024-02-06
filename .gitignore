@@ -101,3 +101,9 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+
+# Modifed code below
+
+# MacOS
+.DS_Store
